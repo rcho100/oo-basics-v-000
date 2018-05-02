@@ -41,7 +41,10 @@ class Shoe
   end
 
   def condition
-    @condition 
+    @condition
+  end
+
+  def cobble
   end
 
 end  # Make your shoe class here!
